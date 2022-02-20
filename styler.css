@@ -219,7 +219,6 @@ p {
 }
 .tables
 {
-box-align: center;
   padding: 10%;
 }
 .center {
@@ -236,3 +235,18 @@ th, td {
 tr:hover{
   background-color: #C7B198;
 }
+a.don:link{
+    font-family: 'Staatliches';
+    color: #1C0A00;
+    text-decoration: none;
+}
+a.don:visited{
+  color: #1C0A00;
+  text-decoration: none;
+}
+
+a.don:hover{
+  text-decoration: underline;
+  color: #694E4E;
+}
+
